@@ -189,8 +189,8 @@ WAHA recebe via webhook → N8N processa
 | Laura Aparecida Mariano Da Silva | RM560004 |
 
 **Instituição:** FIAP — São Paulo  
-**Turma:** 2TSCOR | 2025  
-**Parceiro:** Rede Hospitalar MaterDei  
+**Turma:** 2TSCOR | 2025  /  2026
+**Parceiro fictício:** Rede Hospitalar MaterDei  
 
 ---
 
